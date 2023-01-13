@@ -1,0 +1,13 @@
+# node
+node_modules
+
+
+# electron 
+dist
+out
+
+# environment variables
+.env
+
+#vs code
+.vscode
